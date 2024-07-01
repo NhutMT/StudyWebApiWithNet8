@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/api.csproj": {}
+    "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/api.csproj": {}
   },
   "projects": {
-    "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/api.csproj": {
+    "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/api.csproj",
+        "projectUniqueName": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/api.csproj",
+        "projectPath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/api.csproj",
         "packagesPath": "/Users/nhutma/.nuget/packages/",
-        "outputPath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/obj/",
+        "outputPath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nhutma/.nuget/NuGet/NuGet.Config"

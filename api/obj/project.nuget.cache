@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5gBCm8JnG0=",
+  "dgSpecHash": "6/92Jo4AmRU=",
   "success": true,
-  "projectFilePath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/StudyWebApiWithNet8/api/api.csproj",
+  "projectFilePath": "/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/FinShark/api/api.csproj",
   "expectedPackageFiles": [
     "/Users/nhutma/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/nhutma/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
